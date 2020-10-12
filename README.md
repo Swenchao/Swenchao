@@ -10,6 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       2 hrs 45 mins   ███████████████▓░░░░░░░░░   62.82 % 
+Scala        1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+XML          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Java         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->

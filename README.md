@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swenchao&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
 
-<!--START_SECTION:update-->
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,4 +36,4 @@ Windows                  10 hrs 55 mins      ███████████�
 ```
 
 
-<!--END_SECTION:update-->
+<!--END_SECTION:waka-->

@@ -1,6 +1,6 @@
 <h1 align="center">Swenchao</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Swenchao)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=swenchao" alt="vistors" />

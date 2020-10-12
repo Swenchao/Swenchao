@@ -1,6 +1,7 @@
 name: updateme
 
 on:
+  push:
   schedule:
     - cron: '0 20 * * *'
   issue_comment:

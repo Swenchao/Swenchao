@@ -8,8 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Swenchao&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
 
+📊 **This Week I Spent My Time On** 
+
 <!--START_SECTION:waka-->
 ```text
+💬 Programming Languages:
 Python     4 hrs 54 mins   ███████████████░░░░░░░░░░   59.88 % 
 Scala      1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 % 
 XML        1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 % 

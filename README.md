@@ -10,6 +10,8 @@
 
 📊 **This Week I Spent My Time On** 
 
+💬 Programming Languages:
+
 <!--START_SECTION:waka-->
 ```text
 Python     4 hrs 54 mins   ███████████████░░░░░░░░░░   59.88 % 

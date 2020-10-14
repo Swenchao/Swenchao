@@ -8,13 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Swenchao&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
 
-📊 **This Week I Spent My Time On** 
-
-💬 Programming Languages:
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
 ```text
 💬 Programming Languages: 
 Python                   3 hrs 43 mins       ███████████████░░░░░░░░░░   63.48% 

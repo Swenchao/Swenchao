@@ -1,7 +1,7 @@
 <h1 align="center">Swenchao</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=swenchao" alt="vistors" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Swenchao" alt="vistors" />
 </p>
 
 <p align="center">

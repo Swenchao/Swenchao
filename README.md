@@ -9,18 +9,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 322 Contributions in the Year 2020
- > 
-> 📦 87.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories
- > 
-> 🔑 4 Private Repositories 
-
 📊 **This Week I Spent My Time On** 
 
 ```text

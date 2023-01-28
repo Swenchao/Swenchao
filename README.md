@@ -13,13 +13,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               ███████████████░░░░░░░░░░   61.94% 
+Properties               0 secs              █████████░░░░░░░░░░░░░░░░   38.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 

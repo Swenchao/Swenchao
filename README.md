@@ -13,13 +13,13 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

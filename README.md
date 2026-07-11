@@ -13,18 +13,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.85% 
-JSON                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-JSON-lines               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-SSH Config               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+Python                   7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.57% 
+JSON-lines               4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   22.77% 
+JSON                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+SSH Config               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
 
 🔥 Editors: 
-PyCharm                  12 hrs 25 mins      ████████████████████░░░░░   82.33% 
-VS Code                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67%
+PyCharm                  18 hrs 40 mins      █████████████████████░░░░   87.49% 
+VS Code                  2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51%
 
 💻 Operating System: 
-Mac                      15 hrs 5 mins       █████████████████████████   100.0%
+Mac                      21 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 

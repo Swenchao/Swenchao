@@ -13,18 +13,19 @@
 
 ```text
 💬 Programming Languages: 
-JSON-lines               8 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.67% 
-Python                   8 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.13% 
-JSON                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-SSH Config               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+Python                   8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.04% 
+JSON-lines               8 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   30.54% 
+Markdown                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+JSON                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+textmate                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
 🔥 Editors: 
-PyCharm                  25 hrs 48 mins      ██████████████████████░░░   90.13% 
-VS Code                  2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.87%
+PyCharm                  26 hrs 29 mins      ███████████████████████░░   95.24% 
+VS Code                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 💻 Operating System: 
-Mac                      28 hrs 37 mins      █████████████████████████   100.0%
+Mac                      27 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 

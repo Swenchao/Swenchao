@@ -13,19 +13,13 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      58 mins             ██████████░░░░░░░░░░░░░░░   41.75% 
-Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   26.72% 
-Scala                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             ██████████░░░░░░░░░░░░░░░   41.75% 
-IntelliJ IDEA            43 mins             ███████░░░░░░░░░░░░░░░░░░   31.06% 
-Codex Vscode             38 mins             ██████░░░░░░░░░░░░░░░░░░░   27.19%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

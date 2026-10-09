@@ -13,13 +13,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.17% 
+Java                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 12 mins        ████████████░░░░░░░░░░░░░   50.51% 
+VS Code                  1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.17% 
+IntelliJ IDEA            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
